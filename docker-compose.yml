@@ -1,0 +1,6 @@
+services:
+  dittofeed:
+    image: dittofeed/dittofeed-api:v0.24.0-alpha.21
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai

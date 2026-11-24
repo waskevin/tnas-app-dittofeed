@@ -1,0 +1,12 @@
+{
+  "name": "Dittofeed",
+  "source": "https://www.dittofeed.com",
+  "docker_image": "dittofeed/dittofeed-api:v0.24.0-alpha.21",
+  "version": "v0.24.0-alpha.21",
+  "repository": "https://github.com/waskevin/tnas-app-dittofeed",
+  "architectures": [
+    "linux/amd64",
+    "linux/arm64"
+  ],
+  "submission_status": "not_submitted"
+}
