@@ -1,0 +1,14 @@
+{
+  "number": 13,
+  "name": "Dittofeed",
+  "dual_arch": true,
+  "architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "evidence": "http_screenshot",
+  "screenshot_path": "precheck-screenshots/dittofeed/x86_64/run.png",
+  "precheck_status": "http_ok",
+  "runtime_note": "x86_64 Dittofeed API bound to 0.0.0.0:3001 with NODE_ENV=development; /api returned HTTP 200; screenshot captured",
+  "submission_status": "not_submitted"
+}
